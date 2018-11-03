@@ -1706,7 +1706,7 @@ mongodb-core@2.1.15:
   version "2.1.15"
   resolved "https://registry.yarnpkg.com/mongodb-core/-/mongodb-core-2.1.15.tgz#841f53b87ffff4c7458189c35c8ae827e1169764"
   dependencies:
-    bson "~1.0.4"
+    bson "~1.0.5"
     require_optional "~1.0.0"
 
 mongodb@2.2.31, mongodb@^2.0.36:
